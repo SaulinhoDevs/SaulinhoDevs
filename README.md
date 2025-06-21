@@ -82,6 +82,6 @@ Me chamo Saulo Bernardino Melo, tenho 21 anos e sou natural da Bahia. Atualmente
         align="left" 
         alt="GitHub Stats" 
         height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaulinhoDevs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaulinhoDevs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
     />
 </p>
