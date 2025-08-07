@@ -6,26 +6,8 @@ Me chamo Saulo Bernardino Melo, tenho 21 anos e sou natural da Bahia. Atualmente
 
 <p align="left">
     <a href="https://www.linkedin.com/in/saulobmelo/" target="_blank">
-        <img 
-            alt="LinkedIn" 
-            title="Acesse meu LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/SaulinhoDevs?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/SaulinhoDevs?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/SaulinhoDevs?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/SaulinhoDevs?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <a href = "mailto:saulodevs23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 
 ---
